@@ -8,14 +8,14 @@
 
   <Identity
     Name="c2ff1ed5-6abf-4d2a-8e59-50ab47ad5c16"
-    Publisher="CN=atian"
+    Publisher="CN=icefeee@outlook.com"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="c2ff1ed5-6abf-4d2a-8e59-50ab47ad5c16" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>video_collection</DisplayName>
-    <PublisherDisplayName>atian</PublisherDisplayName>
+    <PublisherDisplayName>icefee</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 
